@@ -1,0 +1,13 @@
+.intro__stats {
+    margin-top: 24px;
+    font-size: 13px;
+    line-height: 20px;
+}
+
+@media screen and (max-width: 376px){
+    .intro__text {
+        margin-top: 32px;
+        font-size: 12px;
+        line-height: 19px;
+    }
+}

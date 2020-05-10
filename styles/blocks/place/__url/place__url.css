@@ -1,0 +1,12 @@
+.place__url {
+    padding-top: 15px;
+    font-size: 18px;
+    line-height: 30px;
+    text-decoration-line: underline;
+    -webkit-transition: opacity .5s linear;
+    transition: opacity .5s linear;
+}
+
+.place__url:hover {
+   opacity: .4;
+}

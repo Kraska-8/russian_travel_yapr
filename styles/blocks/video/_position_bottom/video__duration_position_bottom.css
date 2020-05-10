@@ -1,0 +1,5 @@
+@media screen and (max-width: 950px){
+    .video__duration_position_bottom {
+        bottom: 84px;
+    }
+}

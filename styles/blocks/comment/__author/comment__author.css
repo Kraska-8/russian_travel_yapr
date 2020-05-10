@@ -1,0 +1,19 @@
+.comment__author {
+    font-family: 'Inter Bold';
+    font-size: 14px;
+    line-height: 24px;
+    margin-top: 24px;
+}
+
+
+@media screen and (max-width: 1025px){
+    .comment__author {
+        margin-top: 16px;
+    }
+}
+
+@media screen and (max-width: 769px) {
+    .comment__author {
+      order: 1;
+    }
+  }

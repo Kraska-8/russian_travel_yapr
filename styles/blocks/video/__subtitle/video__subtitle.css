@@ -1,0 +1,15 @@
+.video__subtitle {
+    position: absolute;
+    font-size: 14px;
+    line-height: 15px;
+    left: 30px;
+    bottom: 30px;
+    z-index: 3;
+}
+
+@media screen and (max-width: 950px){
+    .video__subtitle {
+        bottom: 24px;
+        left: 24px;
+    }
+}

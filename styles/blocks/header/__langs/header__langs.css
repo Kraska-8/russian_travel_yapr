@@ -1,0 +1,5 @@
+.header__langs {
+    display: flex;
+    width: 78px;
+    justify-content: space-between; 
+}

@@ -1,0 +1,9 @@
+.footer__nav-item:not(:last-child) {
+    margin-right: 18px;
+}
+
+@media screen and (max-width: 740px){
+    .footer__nav-item:not(:last-child) {
+        margin-bottom: 32px;
+    }
+}
